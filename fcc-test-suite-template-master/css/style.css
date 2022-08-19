@@ -1,0 +1,45 @@
+body{
+background-color: #EEEEEE;
+}
+.logo{
+width: 20%;
+}
+.form-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.btn{
+    width: 10rem;
+    background-color: #E0A800;
+    margin-top: 1rem;
+    border: none;
+}
+.btn:hover{
+    background-color: #E0A800;
+    color: #EEEEEE;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.icons{
+    font-size: 40px;
+    color: #FF8C00;
+    margin-top: 1rem;
+    border: none;
+    margin-right: 4rem;
+}
+.info-section{
+    margin: 2rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
